@@ -1,0 +1,6 @@
+{
+  "name": "Camera & Call Hub",
+  "description": "A refined Material 3 Camera application that integrates live phone status detection and highly interactive simulated incoming call and in-call workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

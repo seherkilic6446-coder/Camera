@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Camera &amp; Call Hub</string>
+    <string name="side_sheet_title">Camera Hub Side Sheet</string>
+    <string name="action">Dismiss Side Sheet</string>
+</resources>
